@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955685295458",
+    "firebase_url": "https://photo-s-uploader.firebaseio.com",
+    "project_id": "photo-s-uploader",
+    "storage_bucket": "photo-s-uploader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955685295458:android:641611e9491747512f483b",
+        "android_client_info": {
+          "package_name": "com.example.photosuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955685295458-cvcvo2frsde3tjcqfr6h7tc3hv03f7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLX55yZ2jE6xjRQ-28_G0z_IvICg0zht8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955685295458-cvcvo2frsde3tjcqfr6h7tc3hv03f7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
